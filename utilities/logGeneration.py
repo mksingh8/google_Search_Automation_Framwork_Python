@@ -5,7 +5,7 @@ import logging
 class LogGen:
     @staticmethod
     def log():
-        logging.basicConfig(filename="/home/manish/Documents/Programming/Python/pythonProject/yourLogo_Testing_PySel"
+        logging.basicConfig(filename="/"
                                      "/Logs/test_log.log", format='%(asctime)s: %(levelname)s: %(name)s: %(message)s '
                                                                   ': %(lineno)s', level=logging.INFO)
         logger_name = inspect.stack()[1][3]
