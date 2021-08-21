@@ -1,4 +1,8 @@
-2021-08-21 16:33:41 INFO:(MainThread) test_google_multi_search_TDD.py:Test_002_google_multi_search:16 testing Multi google search, test_google_multiSearch_method
-2021-08-21 16:33:43 INFO:(MainThread) test_google_multi_search_TDD.py:Test_002_google_multi_search:19 Invoking browser
-2021-08-21 16:33:43 INFO:(MainThread) test_google_multi_search_TDD.py:Test_002_google_multi_search:21 Initializing the search page object
-2021-08-21 16:33:43 INFO:(MainThread) test_google_multi_search_TDD.py:Test_002_google_multi_search:23 calling the test data from XL file
+2021-08-21 17:26:26 INFO:(MainThread) test_google_multi_search_TDD.py:Test_002_google_multi_search:18 testing Multi google search, test_google_multiSearch_method
+2021-08-21 17:26:27 INFO:(MainThread) test_google_multi_search_TDD.py:Test_002_google_multi_search:21 Invoking browser
+2021-08-21 17:26:27 INFO:(MainThread) test_google_multi_search_TDD.py:Test_002_google_multi_search:23 Initializing the search page object
+2021-08-21 17:26:27 INFO:(MainThread) test_google_multi_search_TDD.py:Test_002_google_multi_search:27 calling the test data from XL file
+2021-08-21 17:26:29 INFO:(MainThread) test_google_search.py:Test_001_Google_Search:11 *** test_google_search_method ***
+2021-08-21 17:26:30 INFO:(MainThread) test_google_search.py:Test_001_Google_Search:14 Invoking browser
+2021-08-21 17:26:30 INFO:(MainThread) test_google_search.py:Test_001_Google_Search:16 Initializing the search page object
+2021-08-21 17:26:33 INFO:(MainThread) test_google_search.py:Test_001_Google_Search:21 Title matched
