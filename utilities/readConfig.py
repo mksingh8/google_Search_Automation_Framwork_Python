@@ -1,7 +1,8 @@
 import configparser
 
 config = configparser.RawConfigParser()
-config.read("/home/manish/Documents/Programming/Python/pythonProject/yourLogo_Testing_PySel/Configurations/config.ini")
+config.read("/home/manish/Documents/Programming/Python/pythonProject/google_Search_Automation_Framwork_Python"
+            "/Configurations/config.ini")
 
 
 class ReadConfig:
